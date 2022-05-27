@@ -1,2 +1,2 @@
-# EchoAgency
-Marketing
+# Richardsite.github.io
+Its a marketing website
