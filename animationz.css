@@ -1,0 +1,15 @@
+#clientlogoanimation{
+  
+  position: relative;
+  animation-name: logoes ;
+  animation-duration: 2s;
+  animation-iteration-count: infinite;
+  animation-direction: alternate-reverse;
+  animation-timing-function: ease
+}
+
+@keyframes  logoes {
+  0%   { top:0px;}
+    50% { top:50px; }
+      70% { top:0px; }
+   100% { top:-50px; }
